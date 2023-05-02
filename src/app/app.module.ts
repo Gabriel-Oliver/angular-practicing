@@ -11,9 +11,10 @@ import { EventsComponent } from './components/events/events.component';
 import { EmitterComponent } from './components/emitter/emitter.component';
 import { ChangeNumberComponent } from './components/change-number/change-number.component';
 import { ListRenderComponent } from './components/list-render/list-render.component';
+import { PipesComponent } from './components/pipes/pipes.component';
 
 @NgModule({
-  declarations: [AppComponent, FristComponent, ParentDataComponent, DirectivesComponent, IfRenderComponent, EventsComponent, EmitterComponent, ChangeNumberComponent, ListRenderComponent],
+  declarations: [AppComponent, FristComponent, ParentDataComponent, DirectivesComponent, IfRenderComponent, EventsComponent, EmitterComponent, ChangeNumberComponent, ListRenderComponent, PipesComponent],
   imports: [BrowserModule, AppRoutingModule],
   providers: [],
   bootstrap: [AppComponent],
