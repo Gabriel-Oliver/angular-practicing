@@ -1,0 +1,7 @@
+{
+  "animals": [
+    { "id": 1, "name": "Valor", "type": "Parrot", "age": 2 },
+    { "id": 2, "name": "Atena", "type": "Parrot", "age": 2 },
+    { "id": 3, "name": "Gaia", "type": "Cat", "age": 1 }
+  ]
+}
